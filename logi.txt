@@ -1,0 +1,682 @@
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:40
+Ilosc wygenerowanych znakow: 100
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.002 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.002 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.001 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:40
+Rozmiar pliku kompresowanego: 100 bajtow
+Rozmiar pliku po kompresji: 424 bajtow
+Stopien kompresji: -324.00 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.002 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.002 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.002 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:40
+Rozmiar pliku kompresowanego: 100 bajtow
+Rozmiar pliku po kompresji: 336 bajtow
+Stopien kompresji: -236.00 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.002 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:40
+Ilosc wygenerowanych znakow: 1000
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.003 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.003 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:40
+Rozmiar pliku kompresowanego: 1000 bajtow
+Rozmiar pliku po kompresji: 3857 bajtow
+Stopien kompresji: -285.70 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.002 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.006 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.006 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:40
+Rozmiar pliku kompresowanego: 1000 bajtow
+Rozmiar pliku po kompresji: 2663 bajtow
+Stopien kompresji: -166.30 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.002 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:40
+Ilosc wygenerowanych znakow: 10000
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.059 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.043 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:40
+Rozmiar pliku kompresowanego: 10000 bajtow
+Rozmiar pliku po kompresji: 39028 bajtow
+Stopien kompresji: -290.28 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.027 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.047 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 0.226 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:40
+Rozmiar pliku kompresowanego: 10000 bajtow
+Rozmiar pliku po kompresji: 23690 bajtow
+Stopien kompresji: -136.90 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.027 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:40
+Ilosc wygenerowanych znakow: 100000
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.006 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 4.742 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 4.081 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:40
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 388905 bajtow
+Stopien kompresji: -288.90 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.574 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:40
+Czas wykonania: 1.156 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:41
+Czas wykonania: 70.184 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:41
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 218403 bajtow
+Stopien kompresji: -118.40 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.576 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:43
+Ilosc wygenerowanych znakow: 100
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.001 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:43
+Ilosc wygenerowanych znakow: 100
+Rodzaj generowanych znakow: male litery, duze litery, znaki specjalne, cyfry, 
+Czas wykonania: 0.000 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:43
+Czas wykonania: 0.002 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:43
+Czas wykonania: 0.001 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:43
+Rozmiar pliku kompresowanego: 100 bajtow
+Rozmiar pliku po kompresji: 502 bajtow
+Stopien kompresji: -402.00 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.001 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:43
+Czas wykonania: 0.002 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:43
+Czas wykonania: 0.003 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:43
+Rozmiar pliku kompresowanego: 100 bajtow
+Rozmiar pliku po kompresji: 382 bajtow
+Stopien kompresji: -282.00 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.001 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:46
+Ilosc wygenerowanych znakow: 100
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.000 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.001 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.002 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:46
+Rozmiar pliku kompresowanego: 100 bajtow
+Rozmiar pliku po kompresji: 436 bajtow
+Stopien kompresji: -336.00 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.001 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.002 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.003 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:46
+Rozmiar pliku kompresowanego: 100 bajtow
+Rozmiar pliku po kompresji: 330 bajtow
+Stopien kompresji: -230.00 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.003 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:46
+Ilosc wygenerowanych znakow: 1000
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.000 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.003 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.003 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:46
+Rozmiar pliku kompresowanego: 1000 bajtow
+Rozmiar pliku po kompresji: 3959 bajtow
+Stopien kompresji: -295.90 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.002 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.006 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.011 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:46
+Rozmiar pliku kompresowanego: 1000 bajtow
+Rozmiar pliku po kompresji: 2690 bajtow
+Stopien kompresji: -169.00 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.003 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:46
+Ilosc wygenerowanych znakow: 10000
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.058 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.044 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:46
+Rozmiar pliku kompresowanego: 10000 bajtow
+Rozmiar pliku po kompresji: 38963 bajtow
+Stopien kompresji: -289.63 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.027 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.046 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 0.238 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:46
+Rozmiar pliku kompresowanego: 10000 bajtow
+Rozmiar pliku po kompresji: 23596 bajtow
+Stopien kompresji: -135.96 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.027 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:46
+Ilosc wygenerowanych znakow: 100000
+Rodzaj generowanych znakow: male litery, 
+Czas wykonania: 0.005 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 4.815 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 4.374 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:46
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 388840 bajtow
+Stopien kompresji: -288.84 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.581 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:46
+Czas wykonania: 1.150 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:47
+Czas wykonania: 70.600 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:47
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 218182 bajtow
+Stopien kompresji: -118.18 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.577 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:47
+Ilosc wygenerowanych znakow: 14101
+Rodzaj generowanych znakow: male litery, duze litery, cyfry, 
+Czas wykonania: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:47
+Czas wykonania: 4.774 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:47
+Czas wykonania: 4.235 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:48
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 398139 bajtow
+Stopien kompresji: -298.14 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.602 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:48
+Czas wykonania: 1.286 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:49
+Czas wykonania: 85.901 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:49
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 239062 bajtow
+Stopien kompresji: -139.06 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.571 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:49
+Ilosc wygenerowanych znakow: 7756
+Rodzaj generowanych znakow: male litery, duze litery, znaki specjalne, 
+Czas wykonania: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:49
+Czas wykonania: 4.791 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:49
+Czas wykonania: 4.243 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:49
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 399722 bajtow
+Stopien kompresji: -299.72 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.572 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:49
+Czas wykonania: 1.288 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:51
+Czas wykonania: 88.649 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:51
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 241658 bajtow
+Stopien kompresji: -141.66 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.570 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:51
+Ilosc wygenerowanych znakow: 17658
+Rodzaj generowanych znakow: duze litery, znaki specjalne, 
+Czas wykonania: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:51
+Czas wykonania: 4.735 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:51
+Czas wykonania: 4.137 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:51
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 395037 bajtow
+Stopien kompresji: -295.04 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.571 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:51
+Czas wykonania: 1.288 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:53
+Czas wykonania: 104.211 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:53
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 242591 bajtow
+Stopien kompresji: -142.59 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.793 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:53
+Ilosc wygenerowanych znakow: 2724
+Rodzaj generowanych znakow: male litery, znaki specjalne, cyfry, 
+Czas wykonania: 0.002 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:53
+Czas wykonania: 4.901 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:53
+Czas wykonania: 4.146 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:53
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 395527 bajtow
+Stopien kompresji: -295.53 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.574 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:53
+Czas wykonania: 1.314 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:55
+Czas wykonania: 92.414 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:55
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 244201 bajtow
+Stopien kompresji: -144.20 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.584 s
+
+-------------------- Generator znakow losowych -------------------
+Data i godzina:	27.08.2018 - 08:55
+Ilosc wygenerowanych znakow: 2119
+Rodzaj generowanych znakow: duze litery, znaki specjalne, 
+Czas wykonania: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:55
+Czas wykonania: 4.738 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:55
+Czas wykonania: 4.133 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:55
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 395291 bajtow
+Stopien kompresji: -295.29 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.575 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	27.08.2018 - 08:55
+Czas wykonania: 1.293 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	27.08.2018 - 08:56
+Czas wykonania: 91.269 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	27.08.2018 - 08:56
+Rozmiar pliku kompresowanego: 100000 bajtow
+Rozmiar pliku po kompresji: 242699 bajtow
+Stopien kompresji: -142.70 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 2.572 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 18:57
+Czas wykonania: 3.169 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 18:58
+Czas wykonania: 0.002 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 18:58
+Czas wykonania: 0.016 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	15.01.2020 - 18:59
+Rozmiar pliku kompresowanego: 76 bajtow
+Rozmiar pliku po kompresji: 256 bajtow
+Stopien kompresji: -236.84 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.002 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:04
+Czas wykonania: 0.001 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 19:04
+Czas wykonania: 0.002 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	15.01.2020 - 19:04
+Rozmiar pliku kompresowanego: 76 bajtow
+Rozmiar pliku po kompresji: 333 bajtow
+Stopien kompresji: -338.16 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:05
+Czas wykonania: 0.001 s
+
+----------------------- LZ77 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 19:05
+Czas wykonania: 0.002 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	15.01.2020 - 19:05
+Rozmiar pliku kompresowanego: 76 bajtow
+Rozmiar pliku po kompresji: 333 bajtow
+Stopien kompresji: -338.16 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.002 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:06
+Czas wykonania: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:06
+Czas wykonania: 0.001 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:06
+Czas wykonania: 0.001 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 19:06
+Czas wykonania: 0.002 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	15.01.2020 - 19:06
+Rozmiar pliku kompresowanego: 76 bajtow
+Rozmiar pliku po kompresji: 256 bajtow
+Stopien kompresji: -236.84 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.001 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:06
+Czas wykonania: 0.001 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 19:06
+Czas wykonania: 0.002 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	15.01.2020 - 19:07
+Rozmiar pliku kompresowanego: 76 bajtow
+Rozmiar pliku po kompresji: 256 bajtow
+Stopien kompresji: -236.84 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.001 s
+
+------------------------ LZ77 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:10
+Czas wykonania: 0.001 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:10
+Czas wykonania: 0.002 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:10
+Czas wykonania: 0.002 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 19:11
+Czas wykonania: 0.002 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	15.01.2020 - 19:11
+Rozmiar pliku kompresowanego: 76 bajtow
+Rozmiar pliku po kompresji: 256 bajtow
+Stopien kompresji: -236.84 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.002 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 19:11
+Czas wykonania: 0.002 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:11
+Czas wykonania: 0.001 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 19:11
+Czas wykonania: 0.002 s
+
+------------------------ LZ78 - Kompresja ------------------------
+Data i godzina:	15.01.2020 - 19:11
+Czas wykonania: 0.002 s
+
+----------------------- LZ78 - Dekompresja -----------------------
+Data i godzina:	15.01.2020 - 19:11
+Czas wykonania: 0.001 s
+
+------------------------------ Test ------------------------------
+Data i godzina:	15.01.2020 - 19:11
+Rozmiar pliku kompresowanego: 76 bajtow
+Rozmiar pliku po kompresji: 256 bajtow
+Stopien kompresji: -236.84 %
+Zgodnosc plikow: 100.00 %
+Czas wykonania testu: 0.001 s
+

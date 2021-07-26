@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1532256370 source:d:\programy\codeblocks\projekty\lz77-new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1532256370 source:d:\programy\codeblocks\projekty\lz77\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1534177710 source:d:\programy\codeblocks\projekty\projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+
+1534428521 source:d:\programy\codeblocks\projekty\projekt2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+
+1535355480 source:d:\programy\codeblocks\projekty\projekt3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+
+1579108296 source:d:\programowanie\codeblocks\asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+
